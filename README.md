@@ -5,4 +5,4 @@ The tools used for the projects:
       nodemon
       dotenv
       mongodb
-      mongoose
+      mongoose  
